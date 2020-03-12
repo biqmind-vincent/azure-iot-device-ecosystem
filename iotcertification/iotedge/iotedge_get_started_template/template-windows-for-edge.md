@@ -1,5 +1,5 @@
 ---
-platform: {enter the OS name running on edge device}
+platform: Windows Server 2019   
 device: {enter your device name here}
 language: {enter the language used to you edge device}
 ---
