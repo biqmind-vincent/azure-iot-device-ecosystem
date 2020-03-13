@@ -46,7 +46,7 @@ You should have the following items ready before beginning the process:
 <a name="PrepareDevice"></a>
 # Step 2: Prepare your Device
 
-Install Windows Server 2019 on Lanternedge HarshPro Server.
+Install Windows Server 2019 on Lanternedge HarshPro Server, following guide on https://support.biqmind.com/support/solutions/articles/48000957204-how-to-install-os-to-harshpro-server
 
 <a name="Manual"></a>
 # Step 3: Manual Test for Azure IoT Edge on device
